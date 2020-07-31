@@ -1,0 +1,12 @@
+nav{
+    overflow: auto;
+    z-index: 5;
+    
+}
+.nav-link{
+    color: white !important;
+}
+.nav-link:hover {
+    color: tomato !important;
+}
+  
